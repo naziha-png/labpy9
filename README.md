@@ -125,12 +125,6 @@ if valid:
 
 ## Kesimpulan
 
-Dari praktikum ini dapat disimpulkan bahwa Python menyediakan banyak fungsi bawaan untuk mengelola string. Dengan memahami operasi string, pengguna dapat memanipulasi data teks dan melakukan validasi input secara efektif.
+Berdasarkan hasil praktikum yang telah dilakukan pada pertemuan ini, dapat disimpulkan bahwa penggunaan tipe data string dalam bahasa pemrograman Python sangat penting dalam pengolahan data berbasis teks. Berbagai operasi string seperti menghitung jumlah karakter, mengambil karakter tertentu, mengubah huruf, serta mengganti karakter dapat dilakukan dengan mudah menggunakan fungsi bawaan Python.<br>
 
----
-
-## Daftar File
-
-* `latihan1_string.py`
-* `latihan2_format_string.py`
-* `latihan3_validasi_input.py`
+Selain itu, praktikum ini juga menunjukkan bahwa string dapat digunakan untuk memformat output menggunakan metode format() serta untuk melakukan validasi data input pengguna, seperti nama, nomor telepon, dan email. Dengan pemahaman yang baik terhadap konsep string, programmer dapat membuat program yang lebih interaktif, terstruktur, dan meminimalkan kesalahan input. Praktikum ini diharapkan dapat menjadi dasar dalam pengembangan program Python yang lebih kompleks di pertemuan selanjutnya.
